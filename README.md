@@ -1,7 +1,6 @@
-# todoey_flutter
+# To-Do-List
 
-A new Flutter application.
-
+To-Do-List App
 ## Getting Started
 
 This project is a starting point for a Flutter application.
